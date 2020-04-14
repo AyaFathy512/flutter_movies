@@ -81,6 +81,7 @@ class MovieDetailsScreen extends StatelessWidget {
                 starCount: 5,
                 rating: 4,
                 size: 40.0,
+                
                 filledIconData: Icons.blur_off,
                 halfFilledIconData: Icons.blur_on,
                 color: Colors.green,
